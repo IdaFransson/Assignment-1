@@ -1,0 +1,14 @@
+img{
+
+border-radius: 10px;
+border-width: 30px;
+    border: 4px solid rgb(182, 52, 100);
+    width: 400px;
+    height: 300px;
+}
+
+button{
+border-color: rgb(62, 148, 184);
+border-radius: 10px;
+
+}
